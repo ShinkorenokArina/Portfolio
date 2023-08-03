@@ -20,3 +20,26 @@
 | [Исследование объявлений о продаже квартир](https://github.com/ShinkorenokArina/Portfolio_DS-DA/blob/1e34d33a7ed083f7f84c5e426d5a9fa623d3716a/Project%203/%D0%98%D1%81%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%BE%D0%B1%D1%8A%D1%8F%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B9%20%D0%BE%20%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B5%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80.ipynb) |С помощью архива объявлений о продаже квартир в Санкт-Петербурге и соседних населённых пунктах за несколько лет, необходимо определить рыночную стоимость объектов недвижимости. | pandas, matplotlib | Завершен |
 | [Определение перспективного тарифа для телеком компании](https://github.com/ShinkorenokArina/Portfolio_DS-DA/blob/84f3917a726756fcd2f2ab7a9fb72974f3739df9/Project%206/DA_project%204.ipynb) | В телеком-компании клиентам предлагают два тарифных плана: «Смарт» и «Ультра». Чтобы скорректировать рекламный бюджет, коммерческий департамент хочет понять, какой тариф приносит больше денег. | pandas, matplotlib, math, datetime, scipy | Завершен |
 | [Изучение закономерностей, определяющих успешность игр](https://github.com/ShinkorenokArina/Portfolio_DS-DA/blob/8c9aca17e5d5bac82dac16f0c1e5a33507d50121/Project%207/DA_project%205.ipynb) | Для магазина игр необходимо, используя файл с историческими данными о продажах игр, оценках пользователей и экспертов, жанрами и платформами, выявить определяющие успешность игры закономерности, это позволит сделать ставку на потенциально популярный продукт и спланировать рекламные кампании. |  pandas, matplotlib, seaborn, math, datetime, scipy| Завершен |
+| [Анализ убытков приложения ProcrastinatePRO+](Analysis_of_ProcrastinatePRO+losses/Analysis_of_ProcrastinatePRO+losses.ipynb) | Несмотря на огромные инвестиции в рекламу, последние несколько месяцев компания терпит убытки, поэтому необходимо разобраться в причинах неэффективности привлечения пользователей, а также помочь отделу маркектинга. |  pandas, matplotlib, seaborn, math, datetime, scipy| Завершен |
+| [Проверка гипотез для увеличения продаж в интернет-магазине](Testing_hypotheses_to_increase_e-commerce_sales/Testing_hypotheses_to_increase_e-commerce_sales.ipynb) | Используя данные необходимо приоритизировать гипотезы, запустить A/B-тест и проанализировать результаты. |  pandas, matplotlib, seaborn, math, datetime, scipy| Завершен |
+| [Анализ поведения пользователей в мобильном приложении стартапа](Analyzing_user_behavior_in_a_startup's_mobile_app./Analyzing_user_behavior_in_a_startup's_mobile_app.ipynb) | Проанализировать воронку продаж на основе данных, полученных при использовании мобильного приложения для продажи продуктов питания, и оценить результаты A/A/B-тестирования. |  pandas, matplotlib, plotly, seaborn, math, datetime, scipy| Завершен |
+| [Анализ рынка общественного питания в Москве](Research_of_the_catering_services_market_in_Moscow/Research_of_the_catering_services_market_in_Moscow.ipynb) | На основе откртых данных проанализировать рынок общепита Москвы, чтобы помочь заказчикам в открытии нового бизнеса |  pandas, matplotlib, plotly, seaborn, math, re, datetime, scipy, missingno, json, folium | Завершен |
+| [Проект по А/B-тестированию](AB_testing_project/AB_testing_project.ipynb) | Оценка достоверности тестирования обновленной рекомендательной системы и оценка его результатов. Ожидается улучшение не менее чем на 10% по каждой из следующих метрик: конверсии в просмотры карточек товаров, просмотры корзины и покупки. |  pandas, matplotlib, plotly, seaborn, math, datetime, scipy | Завершен |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
